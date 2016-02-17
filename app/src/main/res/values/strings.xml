@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Appstud</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!--SPLASH SCREEN-->
+    <string name="splash_screen">Splash screen</string>
+
+    <!--ROCK STARS-->
+    <string name="rockstars">rockstars</string>
+    <string name="search_a_rockstar">search a rockstar</string>
+
+    <!--BOOKMARKS-->
+    <string name="bookmarks">bookmarks</string>
+
+    <!--PROFILE-->
+    <string name="profile">profile</string>
+    <string name="full_name">Full name</string>
+</resources>
